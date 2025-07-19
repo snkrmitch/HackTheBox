@@ -1,6 +1,6 @@
 # HackTheBox
 
-To begin my journey in the realm of ethical hacking within CyberSecurity, I decided to sign up for the Penetration Tester job patch on Hack The Box.
+To begin my journey in the realm of ethical hacking within CyberSecurity, I decided to sign up for the Penetration Tester job path on Hack The Box.
 
 You can read more about the path and it's contents <a href="https://academy.hackthebox.com/path/preview/penetration-tester">here.</a>
 
